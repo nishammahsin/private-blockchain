@@ -1,8 +1,6 @@
 # Private Blockchain Application
 
-this project allows demonstrate
-that you are familiarized with the fundamentals concepts of a Blockchain platform.
-Concepts like:
+this project is to  demonstrate the Concepts like:
     - Block
     - Blockchain
     - Wallet
